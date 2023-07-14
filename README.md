@@ -1,4 +1,4 @@
-# darkmode_color_compliance
+# Darkmode Color Compliance
 This is a list of programs that do/do not conform to dark/light modes/themes.
 
 This list is a major work in progress and was started 12023-07-14.
